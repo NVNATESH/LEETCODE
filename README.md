@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 ## Hash Table
@@ -33,6 +34,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -41,5 +43,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 <!---LeetCode Topics End-->
