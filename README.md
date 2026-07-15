@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/NVNATESH/LEETCODE/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -14,6 +15,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## String
 | Problem Name | Difficulty |
