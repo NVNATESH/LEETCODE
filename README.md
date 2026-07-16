@@ -73,6 +73,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/NVNATESH/LEETCODE/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 ## Bit Manipulation
@@ -98,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
