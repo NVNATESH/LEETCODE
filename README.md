@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Recursion
