@@ -52,6 +52,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0829-consecutive-numbers-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NVNATESH/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -118,6 +119,7 @@
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/NVNATESH/LEETCODE/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NVNATESH/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -147,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NVNATESH/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
