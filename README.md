@@ -10,6 +10,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [1046-last-stone-weight](https://github.com/NVNATESH/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -172,4 +174,16 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
