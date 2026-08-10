@@ -10,6 +10,7 @@
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
@@ -184,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
