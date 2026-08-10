@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/NVNATESH/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -184,6 +185,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/NVNATESH/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
