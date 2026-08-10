@@ -192,6 +192,7 @@
 | [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/NVNATESH/LEETCODE/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
