@@ -188,6 +188,7 @@
 | [0136-single-number](https://github.com/NVNATESH/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/NVNATESH/LEETCODE/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
