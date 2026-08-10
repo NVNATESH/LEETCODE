@@ -29,6 +29,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/NVNATESH/LEETCODE/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -93,6 +94,7 @@
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -106,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0829-consecutive-numbers-sum/) | Hard |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NVNATESH/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NVNATESH/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Two Pointers
@@ -200,6 +203,7 @@
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/NVNATESH/LEETCODE/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -262,4 +266,12 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
