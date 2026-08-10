@@ -167,6 +167,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/NVNATESH/LEETCODE/tree/main/0006-zigzag-conversion/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
