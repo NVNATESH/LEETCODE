@@ -109,6 +109,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NVNATESH/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -183,6 +184,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NVNATESH/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -301,14 +303,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
