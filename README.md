@@ -344,4 +344,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/NVNATESH/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/NVNATESH/LEETCODE/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
