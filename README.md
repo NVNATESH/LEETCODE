@@ -31,6 +31,7 @@
 | [1109-corporate-flight-bookings](https://github.com/NVNATESH/LEETCODE/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1260-shift-2d-grid](https://github.com/NVNATESH/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/NVNATESH/LEETCODE/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/NVNATESH/LEETCODE/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1720-decode-xored-array](https://github.com/NVNATESH/LEETCODE/tree/main/1720-decode-xored-array/) | Easy |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1109-corporate-flight-bookings](https://github.com/NVNATESH/LEETCODE/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/NVNATESH/LEETCODE/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/NVNATESH/LEETCODE/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
@@ -234,6 +236,7 @@
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/NVNATESH/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/NVNATESH/LEETCODE/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/NVNATESH/LEETCODE/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/NVNATESH/LEETCODE/tree/main/1720-decode-xored-array/) | Easy |
 | [1734-decode-xored-permutation](https://github.com/NVNATESH/LEETCODE/tree/main/1734-decode-xored-permutation/) | Medium |
