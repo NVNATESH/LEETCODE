@@ -42,6 +42,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/NVNATESH/LEETCODE/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NVNATESH/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -64,6 +65,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NVNATESH/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -73,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
