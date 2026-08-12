@@ -117,6 +117,7 @@
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1922-count-good-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1922-count-good-numbers/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -249,6 +250,7 @@
 | [0231-power-of-two](https://github.com/NVNATESH/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1922-count-good-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1922-count-good-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
