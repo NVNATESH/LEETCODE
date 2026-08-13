@@ -40,6 +40,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/NVNATESH/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
@@ -122,6 +123,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1922-count-good-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1922-count-good-numbers/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -247,6 +249,7 @@
 | [1734-decode-xored-permutation](https://github.com/NVNATESH/LEETCODE/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/NVNATESH/LEETCODE/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
