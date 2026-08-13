@@ -58,6 +58,7 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
 | [0268-missing-number](https://github.com/NVNATESH/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/NVNATESH/LEETCODE/tree/main/0706-design-hashmap/) | Easy |
@@ -356,6 +357,15 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
 | [0997-find-the-town-judge](https://github.com/NVNATESH/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/NVNATESH/LEETCODE/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
