@@ -39,6 +39,7 @@
 | [1734-decode-xored-permutation](https://github.com/NVNATESH/LEETCODE/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/NVNATESH/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
@@ -133,6 +134,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1922-count-good-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1922-count-good-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -215,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -373,10 +376,12 @@
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
