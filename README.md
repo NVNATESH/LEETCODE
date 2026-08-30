@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/NVNATESH/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/NVNATESH/LEETCODE/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/NVNATESH/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/NVNATESH/LEETCODE/tree/main/0289-game-of-life/) | Medium |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NVNATESH/LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
@@ -294,6 +296,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/NVNATESH/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
@@ -432,4 +435,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
