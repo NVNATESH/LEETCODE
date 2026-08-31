@@ -323,6 +323,7 @@
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/NVNATESH/LEETCODE/tree/main/0706-design-hashmap/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NVNATESH/LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
