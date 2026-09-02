@@ -303,6 +303,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/NVNATESH/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -328,6 +329,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/NVNATESH/LEETCODE/tree/main/0706-design-hashmap/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NVNATESH/LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -356,6 +358,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0190-reverse-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -435,6 +438,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -456,4 +460,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
