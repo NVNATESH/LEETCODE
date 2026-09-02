@@ -51,6 +51,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/NVNATESH/LEETCODE/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/NVNATESH/LEETCODE/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NVNATESH/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -196,6 +197,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NVNATESH/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -350,6 +352,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/NVNATESH/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
