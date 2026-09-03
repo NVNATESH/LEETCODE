@@ -66,6 +66,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/NVNATESH/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3917-count-indices-with-opposite-parity](https://github.com/NVNATESH/LEETCODE/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
