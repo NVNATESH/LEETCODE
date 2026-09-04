@@ -45,6 +45,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/NVNATESH/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
@@ -154,6 +155,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/NVNATESH/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -243,6 +245,7 @@
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/NVNATESH/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -316,6 +319,7 @@
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -425,6 +429,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -483,4 +488,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 <!---LeetCode Topics End-->
