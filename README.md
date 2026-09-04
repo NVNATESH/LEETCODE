@@ -45,6 +45,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -308,6 +309,7 @@
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1927-sum-game](https://github.com/NVNATESH/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Linked List
