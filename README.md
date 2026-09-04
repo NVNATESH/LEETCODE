@@ -71,6 +71,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/NVNATESH/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/NVNATESH/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/NVNATESH/LEETCODE/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -266,6 +267,7 @@
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/NVNATESH/LEETCODE/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/NVNATESH/LEETCODE/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/NVNATESH/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
