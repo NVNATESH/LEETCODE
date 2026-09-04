@@ -274,6 +274,7 @@
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NVNATESH/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NVNATESH/LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1927-sum-game](https://github.com/NVNATESH/LEETCODE/tree/main/1927-sum-game/) | Medium |
@@ -318,6 +319,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NVNATESH/LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
