@@ -53,6 +53,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/NVNATESH/LEETCODE/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2906-construct-product-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/NVNATESH/LEETCODE/tree/main/2909-minimum-sum-of-mountain-triplets-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -163,6 +164,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/NVNATESH/LEETCODE/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -253,6 +255,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/NVNATESH/LEETCODE/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NVNATESH/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -434,12 +437,14 @@
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
