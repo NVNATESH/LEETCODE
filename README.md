@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/NVNATESH/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0137-single-number-ii/) | Medium |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
 | [0268-missing-number](https://github.com/NVNATESH/LEETCODE/tree/main/0268-missing-number/) | Easy |
@@ -394,6 +396,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -510,4 +513,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
