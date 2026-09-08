@@ -44,6 +44,7 @@
 | [1734-decode-xored-permutation](https://github.com/NVNATESH/LEETCODE/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/NVNATESH/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NVNATESH/LEETCODE/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/NVNATESH/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -216,6 +217,7 @@
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NVNATESH/LEETCODE/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -363,6 +365,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1927-sum-game](https://github.com/NVNATESH/LEETCODE/tree/main/1927-sum-game/) | Medium |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NVNATESH/LEETCODE/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
