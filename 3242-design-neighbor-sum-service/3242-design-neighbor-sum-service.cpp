@@ -1,6 +1,6 @@
 class NeighborSum {
 public:
-    map<int,pair<int,int>> m;
+    unordered_map<int,pair<int,int>> m;
     vector<vector<int>> g;
     int n ,mp;
     NeighborSum(vector<vector<int>>& grid) {
