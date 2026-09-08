@@ -19,6 +19,7 @@
 | [0289-game-of-life](https://github.com/NVNATESH/LEETCODE/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -209,6 +210,7 @@
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0268-missing-number](https://github.com/NVNATESH/LEETCODE/tree/main/0268-missing-number/) | Easy |
+| [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
@@ -355,6 +357,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -401,6 +404,7 @@
 | [0190-reverse-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -522,4 +526,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 <!---LeetCode Topics End-->
