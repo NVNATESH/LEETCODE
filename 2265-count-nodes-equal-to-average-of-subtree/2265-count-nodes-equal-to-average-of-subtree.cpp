@@ -20,7 +20,7 @@ public:
         return {left.first + right.first + root->val, left.second + right.second + 1};
     }
     int averageOfSubtree(TreeNode* root) {
-        int count{0};
+        int count = 0;
         dfs(root, count);
         return count;
     }
