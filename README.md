@@ -478,6 +478,7 @@
 | [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/NVNATESH/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NVNATESH/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NVNATESH/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,10 +534,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NVNATESH/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NVNATESH/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
