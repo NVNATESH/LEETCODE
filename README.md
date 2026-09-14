@@ -203,6 +203,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0344-reverse-string](https://github.com/NVNATESH/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -299,6 +300,7 @@
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/NVNATESH/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0344-reverse-string](https://github.com/NVNATESH/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NVNATESH/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
