@@ -203,6 +203,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/NVNATESH/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -343,6 +344,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/NVNATESH/LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
@@ -352,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NVNATESH/LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
@@ -393,6 +396,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NVNATESH/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0206-reverse-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/NVNATESH/LEETCODE/tree/main/0706-design-hashmap/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NVNATESH/LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
