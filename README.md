@@ -438,6 +438,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/NVNATESH/LEETCODE/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
