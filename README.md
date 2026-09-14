@@ -163,6 +163,7 @@
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/NVNATESH/LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/NVNATESH/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -263,6 +264,7 @@
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/NVNATESH/LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -373,6 +375,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/NVNATESH/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/NVNATESH/LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
