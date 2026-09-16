@@ -446,6 +446,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
+| [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/NVNATESH/LEETCODE/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -588,4 +589,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NVNATESH/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
