@@ -12,7 +12,7 @@ public:
         }
         return true;
     }
-    void solve(int n,int j,int a,vector<vector<string>>& res,vector<string> v){
+    void solve(int n,int j,vector<vector<string>>& res,vector<string> v){
         if(j==n){
             res.push_back(v);
             return;
@@ -20,7 +20,7 @@ public:
         for(int col = 0;col<n;col++){
             if(valid(j,col,n,v)){
                 v[j][col] = 'Q';
-                solve(n,j+1,a+1,res,v);
+                solve(n,j+1,res,v);
                 v[j][col] = '.';
             }
         }
@@ -28,7 +28,7 @@ public:
     int totalNQueens(int n) {
         vector<vector<string>> res;
         vector<string> v(n,string(n,'.'));
-        solve(n,0,0,res,v);
+        solve(n,0,res,v);
         return res.size();
     }
 };
