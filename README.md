@@ -41,6 +41,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/NVNATESH/LEETCODE/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/NVNATESH/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NVNATESH/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/NVNATESH/LEETCODE/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1720-decode-xored-array](https://github.com/NVNATESH/LEETCODE/tree/main/1720-decode-xored-array/) | Easy |
 | [1734-decode-xored-permutation](https://github.com/NVNATESH/LEETCODE/tree/main/1734-decode-xored-permutation/) | Medium |
@@ -99,6 +100,7 @@
 | [0997-find-the-town-judge](https://github.com/NVNATESH/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/NVNATESH/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NVNATESH/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/NVNATESH/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -119,6 +121,7 @@
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/NVNATESH/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/NVNATESH/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NVNATESH/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NVNATESH/LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
@@ -220,6 +223,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NVNATESH/LEETCODE/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NVNATESH/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NVNATESH/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 ## Sorting
@@ -270,6 +274,7 @@
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/NVNATESH/LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NVNATESH/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
