@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/NVNATESH/LEETCODE/tree/main/0136-single-number/) | Easy |
@@ -253,6 +254,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/NVNATESH/LEETCODE/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
@@ -311,6 +313,7 @@
 | [0006-zigzag-conversion](https://github.com/NVNATESH/LEETCODE/tree/main/0006-zigzag-conversion/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/NVNATESH/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -454,6 +457,7 @@
 | [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/NVNATESH/LEETCODE/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
@@ -513,6 +517,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/NVNATESH/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NVNATESH/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
