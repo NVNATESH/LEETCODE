@@ -171,6 +171,7 @@
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/NVNATESH/LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NVNATESH/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/NVNATESH/LEETCODE/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NVNATESH/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -599,6 +600,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NVNATESH/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NVNATESH/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
