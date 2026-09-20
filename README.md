@@ -143,6 +143,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/NVNATESH/LEETCODE/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
@@ -331,6 +332,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NVNATESH/LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NVNATESH/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
