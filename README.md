@@ -144,6 +144,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/NVNATESH/LEETCODE/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NVNATESH/LEETCODE/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/NVNATESH/LEETCODE/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NVNATESH/LEETCODE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/NVNATESH/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -194,6 +195,7 @@
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NVNATESH/LEETCODE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NVNATESH/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -363,6 +365,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/NVNATESH/LEETCODE/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/NVNATESH/LEETCODE/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NVNATESH/LEETCODE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -375,6 +378,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NVNATESH/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1922-count-good-numbers/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NVNATESH/LEETCODE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
