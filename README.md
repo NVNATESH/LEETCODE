@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
@@ -476,6 +477,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/NVNATESH/LEETCODE/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
@@ -627,5 +629,6 @@
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
