@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/NVNATESH/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
+| [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
@@ -89,6 +90,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/NVNATESH/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -266,6 +268,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
@@ -476,6 +479,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
@@ -629,6 +633,11 @@
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
