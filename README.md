@@ -284,6 +284,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/NVNATESH/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/NVNATESH/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -331,6 +332,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/NVNATESH/LEETCODE/tree/main/0006-zigzag-conversion/) | Medium |
+| [0010-regular-expression-matching](https://github.com/NVNATESH/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
@@ -381,6 +383,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/NVNATESH/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/NVNATESH/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
