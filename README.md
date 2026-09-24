@@ -341,6 +341,7 @@
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/NVNATESH/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0257-binary-tree-paths](https://github.com/NVNATESH/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/NVNATESH/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NVNATESH/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
@@ -492,6 +493,7 @@
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/NVNATESH/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/NVNATESH/LEETCODE/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NVNATESH/LEETCODE/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
@@ -554,6 +556,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0133-clone-graph](https://github.com/NVNATESH/LEETCODE/tree/main/0133-clone-graph/) | Medium |
+| [0257-binary-tree-paths](https://github.com/NVNATESH/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0547-number-of-provinces](https://github.com/NVNATESH/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/NVNATESH/LEETCODE/tree/main/0841-keys-and-rooms/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NVNATESH/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -613,11 +616,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0257-binary-tree-paths](https://github.com/NVNATESH/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NVNATESH/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0257-binary-tree-paths](https://github.com/NVNATESH/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NVNATESH/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
