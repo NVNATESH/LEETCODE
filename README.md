@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/NVNATESH/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -497,6 +498,7 @@
 | [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/NVNATESH/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/NVNATESH/LEETCODE/tree/main/0077-combinations/) | Medium |
