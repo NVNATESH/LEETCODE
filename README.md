@@ -288,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/NVNATESH/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/NVNATESH/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -337,6 +338,7 @@
 | [0006-zigzag-conversion](https://github.com/NVNATESH/LEETCODE/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/NVNATESH/LEETCODE/tree/main/0010-regular-expression-matching/) | Hard |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NVNATESH/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
@@ -492,6 +494,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NVNATESH/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
@@ -620,6 +623,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
