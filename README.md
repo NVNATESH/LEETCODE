@@ -183,6 +183,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/NVNATESH/LEETCODE/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0829-consecutive-numbers-sum](https://github.com/NVNATESH/LEETCODE/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/NVNATESH/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
+| [0866-prime-palindrome](https://github.com/NVNATESH/LEETCODE/tree/main/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -311,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [0866-prime-palindrome](https://github.com/NVNATESH/LEETCODE/tree/main/0866-prime-palindrome/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/NVNATESH/LEETCODE/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/NVNATESH/LEETCODE/tree/main/2197-replace-non-coprime-numbers-in-array/) | Hard |
@@ -528,6 +530,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NVNATESH/LEETCODE/tree/main/0204-count-primes/) | Medium |
+| [0866-prime-palindrome](https://github.com/NVNATESH/LEETCODE/tree/main/0866-prime-palindrome/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/NVNATESH/LEETCODE/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
