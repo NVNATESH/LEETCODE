@@ -75,6 +75,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NVNATESH/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/NVNATESH/LEETCODE/tree/main/3242-design-neighbor-sum-service/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/NVNATESH/LEETCODE/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NVNATESH/LEETCODE/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -208,6 +209,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/NVNATESH/LEETCODE/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NVNATESH/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -318,6 +320,7 @@
 | [2614-prime-in-diagonal](https://github.com/NVNATESH/LEETCODE/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NVNATESH/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -457,6 +460,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
