@@ -68,6 +68,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/NVNATESH/LEETCODE/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [2611-mice-and-cheese](https://github.com/NVNATESH/LEETCODE/tree/main/2611-mice-and-cheese/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/NVNATESH/LEETCODE/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NVNATESH/LEETCODE/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2906-construct-product-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
@@ -271,6 +272,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NVNATESH/LEETCODE/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NVNATESH/LEETCODE/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
+| [2611-mice-and-cheese](https://github.com/NVNATESH/LEETCODE/tree/main/2611-mice-and-cheese/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -443,6 +445,7 @@
 | [1046-last-stone-weight](https://github.com/NVNATESH/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2611-mice-and-cheese](https://github.com/NVNATESH/LEETCODE/tree/main/2611-mice-and-cheese/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +472,7 @@
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NVNATESH/LEETCODE/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/NVNATESH/LEETCODE/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/NVNATESH/LEETCODE/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
+| [2611-mice-and-cheese](https://github.com/NVNATESH/LEETCODE/tree/main/2611-mice-and-cheese/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NVNATESH/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NVNATESH/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
