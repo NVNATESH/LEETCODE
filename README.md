@@ -28,6 +28,7 @@
 | [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
+| [0561-array-partition](https://github.com/NVNATESH/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0705-design-hashset](https://github.com/NVNATESH/LEETCODE/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/NVNATESH/LEETCODE/tree/main/0706-design-hashmap/) | Easy |
@@ -259,6 +260,7 @@
 | [0018-4sum](https://github.com/NVNATESH/LEETCODE/tree/main/0018-4sum/) | Medium |
 | [0268-missing-number](https://github.com/NVNATESH/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0561-array-partition](https://github.com/NVNATESH/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
@@ -448,11 +450,13 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/NVNATESH/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NVNATESH/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0561-array-partition](https://github.com/NVNATESH/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/NVNATESH/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
