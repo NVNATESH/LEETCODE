@@ -40,6 +40,7 @@
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0997-find-the-town-judge](https://github.com/NVNATESH/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NVNATESH/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1029-two-city-scheduling](https://github.com/NVNATESH/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
 | [1046-last-stone-weight](https://github.com/NVNATESH/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/NVNATESH/LEETCODE/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1260-shift-2d-grid](https://github.com/NVNATESH/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
@@ -264,6 +265,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
+| [1029-two-city-scheduling](https://github.com/NVNATESH/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NVNATESH/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/NVNATESH/LEETCODE/tree/main/1968-array-with-elements-not-equal-to-average-of-neighbors/) | Medium |
@@ -460,6 +462,7 @@
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/NVNATESH/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
+| [1029-two-city-scheduling](https://github.com/NVNATESH/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/NVNATESH/LEETCODE/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1927-sum-game](https://github.com/NVNATESH/LEETCODE/tree/main/1927-sum-game/) | Medium |
@@ -692,4 +695,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/NVNATESH/LEETCODE/tree/main/0037-sudoku-solver/) | Hard |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/NVNATESH/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/NVNATESH/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
