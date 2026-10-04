@@ -309,6 +309,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/NVNATESH/LEETCODE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/NVNATESH/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/NVNATESH/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/NVNATESH/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/NVNATESH/LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NVNATESH/LEETCODE/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -365,6 +366,7 @@
 | [0257-binary-tree-paths](https://github.com/NVNATESH/LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/NVNATESH/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/NVNATESH/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/NVNATESH/LEETCODE/tree/main/1079-letter-tile-possibilities/) | Medium |
@@ -429,6 +431,7 @@
 | [0020-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -462,6 +465,7 @@
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0561-array-partition](https://github.com/NVNATESH/LEETCODE/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/NVNATESH/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
@@ -656,6 +660,7 @@
 | [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
