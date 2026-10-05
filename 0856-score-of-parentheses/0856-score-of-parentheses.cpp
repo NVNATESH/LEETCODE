@@ -10,7 +10,7 @@ public:
                 a--;
                 if(s[i-1]=='(') sum+=pow(2,a);
             }
-            cout<<a<<" "<<sum<<" "<<s[i]<<endl;
+            // cout<<a<<" "<<sum<<" "<<s[i]<<endl;
         }
         return sum;
     }
