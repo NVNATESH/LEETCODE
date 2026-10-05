@@ -368,6 +368,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/NVNATESH/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/NVNATESH/LEETCODE/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -433,6 +434,7 @@
 | [0234-palindrome-linked-list](https://github.com/NVNATESH/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
+| [0856-score-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NVNATESH/LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -661,6 +663,7 @@
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
