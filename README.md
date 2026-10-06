@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/NVNATESH/LEETCODE/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/NVNATESH/LEETCODE/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/NVNATESH/LEETCODE/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NVNATESH/LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -147,6 +148,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/NVNATESH/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/NVNATESH/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/NVNATESH/LEETCODE/tree/main/0068-text-justification/) | Hard |
 | [0289-game-of-life](https://github.com/NVNATESH/LEETCODE/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/NVNATESH/LEETCODE/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
@@ -358,6 +360,7 @@
 | [0020-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0068-text-justification](https://github.com/NVNATESH/LEETCODE/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/NVNATESH/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/NVNATESH/LEETCODE/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/NVNATESH/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
