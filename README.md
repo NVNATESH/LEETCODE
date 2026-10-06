@@ -369,6 +369,7 @@
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/NVNATESH/LEETCODE/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NVNATESH/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/NVNATESH/LEETCODE/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -435,6 +436,7 @@
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/NVNATESH/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NVNATESH/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NVNATESH/LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -470,6 +472,7 @@
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/NVNATESH/LEETCODE/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/NVNATESH/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NVNATESH/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0991-broken-calculator](https://github.com/NVNATESH/LEETCODE/tree/main/0991-broken-calculator/) | Medium |
 | [1029-two-city-scheduling](https://github.com/NVNATESH/LEETCODE/tree/main/1029-two-city-scheduling/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -664,6 +667,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/NVNATESH/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NVNATESH/LEETCODE/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/NVNATESH/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NVNATESH/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
