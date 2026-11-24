@@ -86,6 +86,7 @@
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3355-zero-array-transformation-i](https://github.com/NVNATESH/LEETCODE/tree/main/3355-zero-array-transformation-i/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NVNATESH/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NVNATESH/LEETCODE/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -148,6 +149,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NVNATESH/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NVNATESH/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NVNATESH/LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NVNATESH/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3679-minimum-discards-to-balance-inventory](https://github.com/NVNATESH/LEETCODE/tree/main/3679-minimum-discards-to-balance-inventory/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NVNATESH/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NVNATESH/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NVNATESH/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NVNATESH/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NVNATESH/LEETCODE/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -243,6 +246,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/NVNATESH/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NVNATESH/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NVNATESH/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NVNATESH/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/NVNATESH/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -345,6 +349,7 @@
 | [3115-maximum-prime-difference](https://github.com/NVNATESH/LEETCODE/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NVNATESH/LEETCODE/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/NVNATESH/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/NVNATESH/LEETCODE/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NVNATESH/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NVNATESH/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
